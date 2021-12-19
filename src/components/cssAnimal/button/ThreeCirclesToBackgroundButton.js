@@ -10,6 +10,7 @@ const ThreeCirclesToBackgroundButtonWrapper = styled.div`
   font-family: verdana;
   background: #272727;
   z-index: 0;
+  margin-bottom: 2px;
 `;
 const Button = styled.a`
   width: 220px;

@@ -10,6 +10,7 @@ const FourBordersGrowingButtonWrapper = styled.div`
   font-family: sans-serif;
   z-index: 0;
   background: #272727;
+  margin-bottom: 2px;
 `;
 const Button = styled.button`
   background: transparent;

@@ -10,6 +10,7 @@ const TwoPartsSkewedButtonWrapper = styled.div`
   font-family: sans-serif;
   z-index: 0;
   background: #10ac84;
+  margin-bottom: 2px;
 `;
 
 const Button = styled.a`

@@ -8,7 +8,8 @@ const LayersSwappingFromLeftToRightButtonWrapper = styled.div`
   justify-content: center;
   align-items: center;
   font-family: sans-serif;
-  background: grey; ;
+  background: grey;
+  margin-bottom: 2px;
 `;
 const Button = styled.a`
   text-decoration: none;

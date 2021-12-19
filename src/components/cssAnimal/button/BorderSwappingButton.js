@@ -10,6 +10,7 @@ const BorderSwappingButtonWrapper = styled.div`
   font-family: verdana;
   z-index: 0;
   background: #212121;
+  margin-bottom: 2px;
 `;
 const Button = styled.a`
   text-decoration: none;

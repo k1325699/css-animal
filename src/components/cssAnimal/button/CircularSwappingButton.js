@@ -8,6 +8,7 @@ const CircularSwappingButtonWrapper = styled.div`
   justify-content: center;
   align-items: center;
   font-family: sans-serif;
+  margin-bottom: 2px;
 `;
 const Button = styled.button`
   border: 2px solid tomato;

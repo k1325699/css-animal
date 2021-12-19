@@ -11,6 +11,7 @@ const PulsingButtonWrapper = styled.div`
   z-index: 0;
   background: #10ac84;
   font-weight: bold;
+  margin-bottom: 2px;
 `;
 
 const Button = styled.a`

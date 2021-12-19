@@ -11,6 +11,7 @@ const SplittedButtonWrapper = styled.div`
   font-family: verdana;
   z-index: 0;
   background: #222;
+  margin-bottom: 2px;
 `;
 const Button = styled.a`
   text-decoration: none;

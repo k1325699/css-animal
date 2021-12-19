@@ -7,6 +7,7 @@ const SwipeButtonWrapper = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 2px;
 `;
 const Button = styled.a`
   text-decoration: none;

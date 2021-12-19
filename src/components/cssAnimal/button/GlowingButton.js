@@ -8,6 +8,7 @@ const GlowingButtonWrapper = styled.div`
   justify-content: center;
   align-items: center;
   background: #000;
+  margin-bottom: 2px;
 `;
 const Button = styled.a`
   text-decoration: none;

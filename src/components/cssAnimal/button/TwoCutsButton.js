@@ -9,6 +9,7 @@ const TwoCutsButtonWrapper = styled.div`
   align-items: center;
   font-family: sans-serif;
   z-index: 0;
+  margin-bottom: 2px;
 `;
 
 const Button = styled.a`

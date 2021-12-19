@@ -10,6 +10,7 @@ const DiagonalSwipeButtonWrapper = styled.div`
   font-family: sans-serif;
   z-index: 0;
   font-weight: bold;
+  margin-bottom: 2px;
 `;
 
 const Button = styled.a`
