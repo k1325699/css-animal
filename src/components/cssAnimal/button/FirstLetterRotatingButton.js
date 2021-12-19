@@ -1,4 +1,4 @@
-// 17.編號20 黑框旋轉字首放大按鈕
+// 05.編號20 黑框旋轉字首放大按鈕
 import styled from "styled-components";
 
 const FirstLetterRotatingButtonWrapper = styled.div`

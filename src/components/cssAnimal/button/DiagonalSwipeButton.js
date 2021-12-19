@@ -1,4 +1,4 @@
-// 22.編號26 三角空洞合併按鈕
+// 09.編號26 三角空洞合併按鈕
 import styled from "styled-components";
 
 const DiagonalSwipeButtonWrapper = styled.div`

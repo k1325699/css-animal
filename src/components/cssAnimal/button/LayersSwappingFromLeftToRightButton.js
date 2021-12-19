@@ -1,4 +1,4 @@
-// 11.編號14 旋轉替換按鈕
+// 12.編號14 旋轉替換按鈕
 
 import styled from "styled-components";
 const LayersSwappingFromLeftToRightButtonWrapper = styled.div`

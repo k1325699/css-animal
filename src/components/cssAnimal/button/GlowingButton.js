@@ -1,4 +1,4 @@
-// 06.編號09 光線飄過按鈕
+// 21.編號09 光線飄過按鈕
 
 import styled from "styled-components";
 const GlowingButtonWrapper = styled.div`

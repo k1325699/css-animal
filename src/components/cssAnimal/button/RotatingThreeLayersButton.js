@@ -1,4 +1,4 @@
-// 10.編號13 三層旋轉按鈕
+// 16.編號13 三層旋轉按鈕
 
 import styled from "styled-components";
 const RotatingThreeLayersButtonWrapper = styled.div`

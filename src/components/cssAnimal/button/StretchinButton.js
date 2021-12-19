@@ -1,4 +1,4 @@
-// 04.編號07 內部旋轉出現按鈕
+// 07.編號07 內部旋轉出現按鈕
 
 import styled from "styled-components";
 const RotetingButtonWrapper = styled.div`

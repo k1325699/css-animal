@@ -1,4 +1,4 @@
-// 08.編號11 縮放按鈕
+// 04.編號11 縮放按鈕
 
 import styled from "styled-components";
 const TextScalingButtonWrapper = styled.div`

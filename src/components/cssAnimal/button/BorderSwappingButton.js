@@ -1,4 +1,4 @@
-// 15.編號18 四條線對應互換按鈕
+// 19.編號18 四條線對應互換按鈕
 import styled from "styled-components";
 
 const BorderSwappingButtonWrapper = styled.div`

@@ -1,4 +1,4 @@
-// 19.編號22 波浪上升按鈕
+// 15.編號22 波浪上升按鈕
 import styled, { keyframes } from "styled-components";
 
 const WavyButtonWrapper = styled.div`

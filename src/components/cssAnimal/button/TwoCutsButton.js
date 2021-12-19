@@ -1,4 +1,4 @@
-// 20.編號23 斜線旋轉按鈕
+// 06.編號23 斜線旋轉按鈕
 import styled from "styled-components";
 
 const TwoCutsButtonWrapper = styled.div`

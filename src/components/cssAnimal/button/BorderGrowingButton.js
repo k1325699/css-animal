@@ -1,4 +1,4 @@
-// 16.編號19 外框對角拉長按鈕
+// 13.編號19 外框對角拉長按鈕
 import styled from "styled-components";
 
 const BorderGrowingButtonWrapper = styled.div`

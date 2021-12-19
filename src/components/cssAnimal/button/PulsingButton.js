@@ -1,4 +1,4 @@
-// 22.編號25 hover放射active上下按動按鈕
+// 23.編號25 hover放射active上下按動按鈕
 import styled from "styled-components";
 
 const PulsingButtonWrapper = styled.div`

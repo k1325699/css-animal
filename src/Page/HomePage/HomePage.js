@@ -32,29 +32,37 @@ const Wrapper = styled.div`
 export default function HomePage() {
   return (
     <Wrapper>
+      {/* 01 */}
       <RotetingButton />
       <SwipeButton />
       <ButtonHover />
-      <StretchinButton />
-      <SwipeButtonTopToBottom />
-      <GlowingButton />
-      <TwoLayersSwappingButton />
+      {/* 04 */}
       <TextScalingButton />
-      <CircularSwappingButton />
-      <RotatingThreeLayersButton />
-      <LayersSwappingFromLeftToRightButton />
-      <ThreeCirclesToBackgroundButton />
-      <ButtonHoverTwo />
-      <SplittedButton />
-      <BorderSwappingButton />
-      <BorderGrowingButton />
       <FirstLetterRotatingButton />
+      <TwoCutsButton />
+      {/* 07 */}
+      <StretchinButton />
+      <CircularSwappingButton />
+      <DiagonalSwipeButton />
+      {/* 10 */}
+      <TwoLayersSwappingButton />
+      <ButtonHoverTwo />
+      <LayersSwappingFromLeftToRightButton />
+      {/* 13 */}
+      <BorderGrowingButton />
       <FourBordersGrowingButton />
       <WavyButton />
-      <TwoCutsButton />
+      {/* 16 */}
+      <RotatingThreeLayersButton />
+      <ThreeCirclesToBackgroundButton />
+      <SplittedButton />
+      {/* 19 */}
+      <BorderSwappingButton />
+      <SwipeButtonTopToBottom />
+      <GlowingButton />
+      {/* 22 */}
       <TwoPartsSkewedButton />
       <PulsingButton />
-      <DiagonalSwipeButton />
       <div style={{ width: "340px" }}></div>
     </Wrapper>
   );

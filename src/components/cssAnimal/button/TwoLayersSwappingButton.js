@@ -1,4 +1,4 @@
-// 07.編號10 卡片切換按鈕
+// 10.編號10 卡片切換按鈕
 
 import styled from "styled-components";
 const TwoLayersSwappingButtonWrapper = styled.div`

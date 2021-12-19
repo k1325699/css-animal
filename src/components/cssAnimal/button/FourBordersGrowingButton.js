@@ -1,4 +1,4 @@
-// 18.編號21 四條線向內合併按鈕
+// 14.編號21 四條線向內合併按鈕
 import styled from "styled-components";
 
 const FourBordersGrowingButtonWrapper = styled.div`

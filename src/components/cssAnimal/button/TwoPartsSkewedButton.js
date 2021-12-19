@@ -1,4 +1,4 @@
-// 21.編號24 菱形互換長方形按鈕
+// 22.編號24 菱形互換長方形按鈕
 import styled from "styled-components";
 
 const TwoPartsSkewedButtonWrapper = styled.div`

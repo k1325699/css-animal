@@ -1,4 +1,4 @@
-// 12.編號15 三顆球交互按鈕
+// 17.編號15 三顆球交互按鈕
 
 import styled from "styled-components";
 const ThreeCirclesToBackgroundButtonWrapper = styled.div`

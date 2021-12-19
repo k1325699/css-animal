@@ -1,4 +1,4 @@
-// 05.編號08 變換文字按鈕
+// 20.編號08 變換文字按鈕
 
 import styled from "styled-components";
 const SwipeButtonTopToBottomWrapper = styled.div`
