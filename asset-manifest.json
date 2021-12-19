@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/css-animal/static/css/main.f3ba7cbc.css",
+    "main.js": "/css-animal/static/js/main.656f506f.js",
+    "index.html": "/css-animal/index.html",
+    "main.f3ba7cbc.css.map": "/css-animal/static/css/main.f3ba7cbc.css.map",
+    "main.656f506f.js.map": "/css-animal/static/js/main.656f506f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3ba7cbc.css",
+    "static/js/main.656f506f.js"
+  ]
+}
